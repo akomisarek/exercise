@@ -1,0 +1,32 @@
+# IntelliJ IDEA files
+.idea/
+/out
+*.iws
+*.iml
+*.ipr
+
+# node_modules
+package-lock.json
+node_modules/
+yarn-error.log
+
+# test output
+output/
+test-results/
+
+.DS_Store
+~*
+
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+build/
+service/out
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
